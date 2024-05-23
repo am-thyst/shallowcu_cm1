@@ -346,7 +346,7 @@
 
  &param14
  dodomaindiag   =    .true.,
- diagfrq        =       60.0,
+ diagfrq        =       7200.0,
  /
 
  &param15
