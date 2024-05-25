@@ -1,8 +1,8 @@
 
  &param0
- nx           =      256,
- ny           =      256,
- nz           =      100,
+ nx           =     128,
+ ny           =     128,
+ nz           =     128,
  ppnode       =     128,
  timeformat   =       2,
  timestats    =       1,
@@ -11,17 +11,18 @@
  /
 
  &param1
- dx     =   50.0,
- dy     =   50.0,
- dz     =    40.0,
- dtl    =   5.000,
- timax  = 7200.0,
+ dx     =    40.0,
+ dy     =    40.0,
+ dz     =    16.0,
+ dtl    =   1.500,
+ timax  = 43200.0,
  run_time =  -999.9,
  tapfrq =  3600.0,
  rstfrq = 10800.0,
  statfrq =   60.0,
  prclfrq =   60.0,
  /
+
 
  &param2
  cm1setup  =  1,
