@@ -76,7 +76,7 @@
  iinit     =  0,
  irandp    =  1,
  ibalance  =  0,
- iorigin   =  2,
+ iorigin   =  1,
  axisymm   =  0,
  imove     =  0,
  iptra     =  0,
