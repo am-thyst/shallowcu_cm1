@@ -377,15 +377,15 @@
  /
 
  &param19
- do_lsnudge         =    .false.,
- do_lsnudge_u       =    .false.,
+ do_lsnudge         =    .true.,
+ do_lsnudge_u       =    .true.,
  do_lsnudge_v       =    .false.,
  do_lsnudge_th      =    .false.,
  do_lsnudge_qv      =    .false.,
- lsnudge_tau        =    1800.0,
- lsnudge_start      =    3600.0,
- lsnudge_end        =    7200.0,
- lsnudge_ramp_time  =     600.0,
+ lsnudge_tau        =    60.0,
+ lsnudge_start      =    0.0,
+ lsnudge_end        =    43200.0,
+ lsnudge_ramp_time  =     0.0,
  /
 
  &param20
